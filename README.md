@@ -27,8 +27,10 @@
 <img align="left" alt="Git" width="40" src="https://icongr.am/devicon/git-original-wordmark.svg"/>
 <img align="left" alt="GitHub" width="40" src="https://icongr.am/devicon/github-original-wordmark.svg" />
 <p align="center">
-<a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW"></a></p> " height="300" width="400" alt="gif" >
+<img src="https://github.com/Gurpreet-Singh121/Gurpreet-Singh121/blob/main/giphy%20(1).gif " height="300" width="400" alt="gif" >
 </p>
+
+
 <h3 align="left"> Github Stats:</h3>
 
 
