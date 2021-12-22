@@ -69,4 +69,5 @@
 </a>
 <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/Gurpreet-Singh121?label=Followers&style=social" alt="GitHub Badge"></a>
 
+![snake gif](https://github.com/Gurpreet-Singh121/Gurpreet-Singh121/blob/output/github-contribution-grid-snake.gif)
 
