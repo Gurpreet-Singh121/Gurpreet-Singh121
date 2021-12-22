@@ -32,23 +32,14 @@
 
 
 <h3 align="left"> Github Stats:</h3>
-
-
-<h3 align="left"> Github Stats:</h3>
  
  ![ gurpreet-singh121 github activity graph](https://activity-graph.herokuapp.com/graph?username= gurpreet-singh121 &theme=xcode)
 
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gurpreet-singh121 &&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-<a />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gurpreet-singh121 &layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gurpreet-singh121&show_icons=true&theme=radical" alt="gurpreet-singh121" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gurpreet-singh121&show_icons=true&theme=radical" alt="gurpreet-singh121" /></p>
 
-<h3 align="left"> 🔥 My contribution streak:</h3>
-<p align="center">
-  <a href="#">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user= gurpreet-singh121 &theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
-  </a>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gurpreet-singh121&show_icons=true&theme=radical" alt="gurpreet-singh121" /></p>
+
 
