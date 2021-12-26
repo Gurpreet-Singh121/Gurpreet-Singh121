@@ -76,4 +76,13 @@
 <br/>
 
 ![snake gif](https://github.com/Gurpreet-Singh121/Gurpreet-Singh121/blob/output/github-contribution-grid-snake.gif)
+    
+    ### 𝓢𝓾𝓹𝓹𝓸𝓻𝓽 𝓂𝑒:
 
+<a href="https://https://www.buymeacoffee.com/Gurpreet121"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="amankumar"/></a>
+
+<a href="https://paypal.me/GurpreetSingh121"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PayPal.svg/1280px-PayPal.svg.png" height="45" alt="amankumar"/></a>
+
+<!-- <br><br>
+
+<h1 align='center'>⚡️𝓢𝓽𝓪𝔂 𝓐𝔀𝓮𝓼𝓸𝓶𝓮!⚡️</h1> -->
