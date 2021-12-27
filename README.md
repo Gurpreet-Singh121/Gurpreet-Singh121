@@ -79,7 +79,7 @@
     
     ### 𝓢𝓾𝓹𝓹𝓸𝓻𝓽 𝓂𝑒:
 
-<a href="https://https://www.buymeacoffee.com/Gurpreet121"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="gurpreetsingh"/></a>
+<a href="https://www.buymeacoffee.com/Gurpreet121"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="gurpreetsingh"/></a>
 
 <a href="https://paypal.me/GurpreetSingh121"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PayPal.svg/1280px-PayPal.svg.png" height="45" alt="gurpreetsingh"/></a>
 
